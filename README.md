@@ -10,14 +10,14 @@
 🚀 **Embedded Systems Engineer** passionate about building robust Yocto-based Linux distributions and developing C++/Python applications for IoT, Image Processing, and STM32 platforms.
 
 🌐 I'm currently diving deep into the world of **Embedded Linux**, working hands-on with:
-- 🔧 **Yocto Project**: Customizing builds, kernels, and U-Boot systems
-- 🧠 **C++/Python**: Applying object-oriented principles to real-time applications
-- 🛠️ **Low-level development** on STM32 and Raspberry Pi
+-  **Yocto Project**: Customizing builds, kernels, and U-Boot systems
+-  **C++/Python**: Applying object-oriented principles to real-time applications
+-  **Low-level development** on STM32 and Raspberry Pi
 
 🔍 In my GitHub repos, you'll find:
-- 🧩 Modular code with clean architecture and best practices
-- 🧪 Proof-of-concept demos in Embedded C/C++, Python, and shell
-- 🔄 Work-in-progress ideas with a focus on real-world integration
+-  Modular code with clean architecture and best practices
+-  Proof-of-concept demos in Embedded C/C++, Python, and shell
+-  Work-in-progress ideas with a focus on real-world integration
 
 📫 **Let's Connect**: [aiaaziz.sw@gmail.com](mailto:aiaaziz.sw@gmail.com)
 
