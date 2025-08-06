@@ -5,11 +5,9 @@
   </a>
 </div>
 
-# 👋 Hi there,
+# 👋 Hi there, I'm Ahmed Abdelaziz
 
-I'm Ahmed Abdelaziz
-
-🚀 **Embedded Systems Engineer** passionate about building robust Yocto-based Linux distributions and developing C++/Python applications for IoT, Image Processing, and STM32 platforms.
+🚀 **An Embedded Systems Engineer** passionate about building robust Yocto-based Linux distributions and developing C++/Python applications for IoT, Image Processing, and STM32 platforms.
 
 🌐 I'm currently diving deep into the world of **Embedded Linux**, working hands-on with:
 -  **Yocto Project**: Customizing builds, kernels, and U-Boot systems
