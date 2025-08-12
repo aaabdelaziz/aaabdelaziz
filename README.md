@@ -9,11 +9,12 @@
 
 🚀 **An Embedded Systems Engineer** passionate about building robust Yocto-based Linux distributions and developing C++/Python applications for IoT, Image Processing, and STM32 platforms.
 
-🌐 I'm currently diving deep into the world of **Embedded Linux**, working hands-on with:
+🌐 I'm Continously updating my repo projects in different areas like:
+-  **Embedded Linux**, working hands-on with:
 -  **Yocto Project**: Customizing builds, kernels, and U-Boot systems
 -  **C++/Python**: Applying object-oriented principles to real-time applications
 -  **Bare Metal development** on STM32 and Raspberry Pi
-- **Qt Widget, Qt QML** providing some projects and tutorial examples.
+-  **Qt Widget, Qt QML** providing some projects and tutorial examples.
   
 🔍 In my GitHub repos, you'll find:
 -  Modular code with clean architecture and best practices
