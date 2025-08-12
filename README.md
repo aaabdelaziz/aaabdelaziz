@@ -7,7 +7,7 @@
 
 # 👋 Hi there, I'm Ahmed Abdelaziz
 
-🚀 **An Embedded Systems Engineer** passionate about building robust Yocto-based Linux distributions and developing C++/Python applications for IoT, Image Processing, and STM32 platforms.
+🚀 **An Embedded Systems Engineer** passionate about building robust Yocto-based Linux distributions while developing different applications in C/C++/Python from STM32, IoT, Image Processing, Raspberry Pi to desktop applications using Qt framework.
 
 🌐 I'm Continously updating my repo projects in different areas like:
 -  **Embedded Linux**, working hands-on with:
